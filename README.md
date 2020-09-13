@@ -18,7 +18,7 @@ Türkiye Teknoloji Takımı Vakfı - Yapay Zeka Usta Eğitimleri Serisi - Makine
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/T3-YZ-102/blob/master/notebooks/Kaggle-EvSatisFiyatlariniTahminEtme.ipynb) 
 
 
-## Sınıflanfırma Örnek Uygulama
+## Sınıflandırma Örnek Uygulama
 Veri seti kaynak: https://github.com/naynco/nayn.data
 
 **NLP - Haber Sınıflandırma - Veri Kümesi Analizi**
