@@ -2,11 +2,15 @@
 Türkiye Teknoloji Takımı Vakfı - Yapay Zeka Usta Eğitimleri Serisi - Makine Öğreniminde Regresyon ve Sınıflandırma
 
 
+## Sunum
+
+:telescope: [Sunum dosyası](presentation/Sunum-T3-YZ-102.pdf)
+
+
 ## Regresyon Konu Anlatımı
 
-**[Boğaz'da Yapay Öğrenme İsmail Arı Yaz Okulu 2018](http://byoyo.cmpe.boun.edu.tr/) - Yapay Öğrenmeye Giriş I**
+**[Boğaz'da Yapay Öğrenme İsmail Arı Yaz Okulu 2018](http://byoyo.cmpe.boun.edu.tr/) - Yapay Öğrenmeye Giriş I - *Ali Taylan Cemgil***
 
-*Ali Taylan Cemgil*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yavuzKomecoglu/T3-YZ-102/blob/master/notebooks/atcemgil_byoyo2018-giris-1.ipynb) 
 
