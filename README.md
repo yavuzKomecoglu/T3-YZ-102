@@ -4,7 +4,7 @@ Türkiye Teknoloji Takımı Vakfı - Yapay Zeka Usta Eğitimleri Serisi - Makine
 
 ## Sunum
 
-:telescope: Sunum dosyasına [buradan]((presentation/Sunum-T3-YZ-102.pdf) erişebilirsiniz. 
+:telescope: Sunum dosyasına [buradan](presentation/Sunum-T3-YZ-102.pdf) erişebilirsiniz. 
 
 Sunum tasarımı ve düzenleme [@Basak Buluz Kömeçoğlu](http://basakbuluz.com/) :pray:
 
